@@ -3,25 +3,6 @@ EDA of Zomato Data
 Overview
 This project focuses on performing Exploratory Data Analysis (EDA) on a Zomato restaurant dataset. The dataset contains information about various restaurants, including their location, cuisines, ratings, reviews, and other characteristics. The goal of the analysis is to extract meaningful insights, understand trends, and visualize key data points to better understand the restaurant industry and consumer preferences.
 
-Dataset
-The dataset used in this analysis is the Zomato dataset, which contains the following key columns:
-Restaurant Name: The name of the restaurant.
-Country: The country where the restaurant is located.
-City: The city where the restaurant is located.
-Aggregate Rating: The overall rating given to the restaurant.
-Votes: The number of votes or reviews the restaurant has received.
-Cuisines: The types of cuisines served by the restaurant.
-Price range: The pricing level of the restaurant (from 1 to 4).
-Online delivery: Whether the restaurant offers online delivery.
-Table booking: Whether the restaurant offers table booking.
-Location: The specific address or locality of the restaurant.
-Objective
-The objectives of this project are to:
--Perform basic data cleaning and preprocessing.
--Conduct various exploratory analyses to uncover interesting trends and patterns in the data.
--Visualize the insights using charts and graphs.
--Understand restaurant ratings, the influence of location, pricing, and online delivery on restaurant success.
-
 Steps Taken
 1. Data Cleaning and Preprocessing
 Checked for missing values and handled them appropriately.
@@ -57,5 +38,15 @@ Cuisine Types
 Popular cuisines like Indian, Chinese, and Italian dominate the dataset. By analyzing the average ratings per cuisine, we can see how ratings vary across different types of food.
 Online Delivery
 Restaurants with online delivery have slightly higher ratings compared to those without, especially in urban areas.
-Summary
-This project provides a comprehensive EDA of the Zomato dataset to uncover key insights about restaurant performance across different regions. The analysis highlights trends in ratings, price range, and online delivery features that could be useful for restaurateurs or business analysts.
+Attaching few screenshots of code-
+![image](https://github.com/user-attachments/assets/0aa466e3-79fd-4bd3-ba04-cfde8367b170)
+![image](https://github.com/user-attachments/assets/f37b0b0a-d954-4b39-8e59-b6048cbef3a4)
+![image](https://github.com/user-attachments/assets/da6bcf0b-b2f8-4efd-91da-562d567dce8b)
+![image](https://github.com/user-attachments/assets/5b30d9c5-50e0-4205-895c-b372732c4080)
+![image](https://github.com/user-attachments/assets/70850646-b306-4ea2-bdd0-bd0907c76fb3)
+![image](https://github.com/user-attachments/assets/4fe425f2-2517-4fae-a9ca-0dbd1d7de000)
+
+
+
+
+
